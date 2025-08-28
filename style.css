@@ -140,6 +140,7 @@ button {
 
 .type {
   font-weight: 700;
+  color: var(--dark-blue);
 }
 
 .category__date {
